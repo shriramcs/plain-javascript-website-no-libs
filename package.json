@@ -1,0 +1,27 @@
+{
+  "name": "plain-javascript-website-no-libs",
+  "version": "1.0.0",
+  "description": "Plain Website with pure javascript with no libs and no bootstrap for css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriramcs/plain-javascript-website-no-libs.git"
+  },
+  "keywords": [
+    "Pure",
+    "Javascript",
+    "No",
+    "Bootstrap",
+    "for",
+    "css"
+  ],
+  "author": "shriramcs@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shriramcs/plain-javascript-website-no-libs/issues"
+  },
+  "homepage": "https://github.com/shriramcs/plain-javascript-website-no-libs#readme"
+}
